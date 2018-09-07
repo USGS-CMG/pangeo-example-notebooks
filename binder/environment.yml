@@ -23,6 +23,7 @@ dependencies:
   - holoviews
   - geoviews
   - datashader
+  - hvplot
   - netcdf4
   - zarr
   - numcodecs
